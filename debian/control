@@ -1,13 +1,13 @@
 Source: distrobox
 Section: admin
 Priority: optional
-Maintainer: Michel Alexandre Salim <michel@michel-slm.name>
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Build-Depends:
  debhelper-compat (= 13),
 Standards-Version: 4.6.2
 Homepage: https://distrobox.privatedns.org/
-Vcs-Browser: https://salsa.debian.org/michel/distrobox
-Vcs-Git: https://salsa.debian.org/michel/distrobox.git
+Vcs-Browser: https://github.com/Nitrux/distrobox
+Vcs-Git: https://github.com/89luca89/distrobox.git
 Rules-Requires-Root: no
 
 Package: distrobox
