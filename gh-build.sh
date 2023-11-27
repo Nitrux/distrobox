@@ -7,6 +7,7 @@ git clone --depth=1 https://github.com/89luca89/distrobox.git src
 mv src/* . && rm -r src
 
 ### Basic Packages
+apt -qq update
 apt -qq -yy install equivs git devscripts lintian --no-install-recommends
 
 ### Install Dependencies
