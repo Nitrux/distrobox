@@ -1,3 +1,9 @@
+distrobox (1.7.2.1) unstable; urgency=medium
+
+  * New upstream version 1.7.2.1.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 29 May 2024 16:45:00 -0500
+
 distrobox (1.7.1) unstable; urgency=medium
 
   * New upstream version 1.7.1.
