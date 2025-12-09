@@ -3,7 +3,7 @@
 set -x
 
 ### Clone the source
-git clone --depth=1 https://github.com/89luca89/distrobox.git src
+git clone -b 1.8.2.2 --depth=1 https://github.com/89luca89/distrobox.git src
 mv src/* . && rm -r src
 
 ### Basic Packages
